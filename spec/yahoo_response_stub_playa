@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+		<rss version="2.0" xmlns:yweather="http://xml.weather.yahoo.com/ns/rss/1.0" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#">
+			<channel>
+		
+<title>Yahoo! Weather - Playa del Carmen, MX</title>
+<link>http://us.rd.yahoo.com/dailynews/rss/weather/Playa_del_Carmen__MX/*http://weather.yahoo.com/forecast/MXQR0076_f.html</link>
+<description>Yahoo! Weather for Playa del Carmen, MX</description>
+<language>en-us</language>
+<lastBuildDate>Sun, 05 Aug 2012 3:46 pm CDT</lastBuildDate>
+<ttl>60</ttl>
+<yweather:location city="Playa del Carmen" region="QR"   country="Mexico"/>
+<yweather:units temperature="F" distance="mi" pressure="in" speed="mph"/>
+<yweather:wind chill="82"   direction="40"   speed="9" />
+<yweather:atmosphere humidity="70"  visibility="8"  pressure="29.97"  rising="2" />
+<yweather:astronomy sunrise="6:22 am"   sunset="7:21 pm"/>
+<image>
+<title>Yahoo! Weather</title>
+<width>142</width>
+<height>18</height>
+<link>http://weather.yahoo.com</link>
+<url>http://l.yimg.com/a/i/brand/purplelogo//uh/us/news-wea.gif</url>
+</image>
+<item>
+<title>Conditions for Playa del Carmen, MX at 3:46 pm CDT</title>
+<geo:lat>20.63</geo:lat>
+<geo:long>-87.07</geo:long>
+<link>http://us.rd.yahoo.com/dailynews/rss/weather/Playa_del_Carmen__MX/*http://weather.yahoo.com/forecast/MXQR0076_f.html</link>
+<pubDate>Sun, 05 Aug 2012 3:46 pm CDT</pubDate>
+<yweather:condition  text="Mostly Cloudy"  code="28"  temp="82"  date="Sun, 05 Aug 2012 3:46 pm CDT" />
+<description><![CDATA[
+<img src="http://l.yimg.com/a/i/us/we/52/28.gif"/><br />
+<b>Current Conditions:</b><br />
+Mostly Cloudy, 82 F<BR />
+<BR /><b>Forecast:</b><BR />
+Sun - Partly Cloudy. High: 90 Low: 73<br />
+Mon - PM Thunderstorms/Wind. High: 91 Low: 73<br />
+<br />
+<a href="http://us.rd.yahoo.com/dailynews/rss/weather/Playa_del_Carmen__MX/*http://weather.yahoo.com/forecast/MXQR0076_f.html">Full Forecast at Yahoo! Weather</a><BR/><BR/>
+(provided by <a href="http://www.weather.com" >The Weather Channel</a>)<br/>
+]]></description>
+<yweather:forecast day="Sun" date="5 Aug 2012" low="73" high="90" text="Partly Cloudy" code="29" />
+<yweather:forecast day="Mon" date="6 Aug 2012" low="73" high="91" text="PM Thunderstorms/Wind" code="38" />
+<guid isPermaLink="false">MXQR0076_2012_08_06_7_00_CDT</guid>
+</item>
+</channel>
+</rss>
+
+<!-- api1.weather.sp2.yahoo.com Sun Aug  5 21:47:31 PST 2012 -->

@@ -1,0 +1,36 @@
+# *****************************************
+# ENEMOI is the God of the winds.
+# ****************************************      
+# it alerts you when there is good winds
+#
+
+
+* USAGE:
+
+enemoi 13 "playa del carmen"
+
+
+This tells the Gods to alert you when there is wind more than 13 knots in Playa del Carmen
+
+
+#
+
+* Interesting links
+
+** Yahoo Weather API
+
+http://developer.yahoo.com/weather/
+
+** Lookup for WOEID Yahoo numbers
+
+http://woeid.rosselliot.co.nz/lookup/playa%20del%20carmen
+
+
+Playa del Carmen WOEID
+
+136973
+
+
+Playa del Carmen Yahoo URL
+
+weather.yahooapis.com/forecastrss?w=136973&u=c&yweather=wind

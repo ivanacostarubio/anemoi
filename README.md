@@ -6,10 +6,13 @@
 
 ### USAGE:
 
+```bash
 Usage: anemoi [options]
     -s, --show                       Show the Alarms
     -a, --add                        Adds a New Alarm
     -c, --check                      Check the Alarms
+
+```
 
 ### PITCH:
 
